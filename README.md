@@ -1,6 +1,7 @@
 # OU-RAG-seminar
 ## October 2023
 ### Matthew J. Beattie
+### University of Oklahoma
 
 This repository contains scripts that can be used as starting points for Retrieval Augmented Generation projects.  There are two basic scripts:
 * __opensource-rag-example.ipynb__: Upload this script to Google Colab, attach it to a GPU runtime, and you should be able to execute it as-is
